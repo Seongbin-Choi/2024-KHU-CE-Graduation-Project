@@ -9,7 +9,7 @@
 
 1. LSTM 모델 구성
 
-![image](https://github.com/user-attachments/assets/a892e2da-776a-4c2e-8290-d27477ad9125)
+   ![image](https://github.com/user-attachments/assets/a892e2da-776a-4c2e-8290-d27477ad9125)
 
 1.1. 환율 제거 옵션: KOSPI 종합지수와 삼성전자 주가 데이터만을 사용하여 예측을 수행하였다. 환율 데이터를 제외하여 외부 요인 없이 주가 데이터만으로 예측했을 때의 성능을 확인하였다.
 
